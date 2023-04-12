@@ -11,7 +11,7 @@ Documentation can be found at https://nextjs.org/docs/getting-started.
 1. Clone the repository:
 
 ```
-git clone https://github.com/krastbiz/dielcom
+git clone https://github.com/szmitrukevich/dielcom
 ```
 
 2. run `cd dielcom`
